@@ -1,0 +1,18 @@
+[
+    {
+      "role": "BSc in Software Engineering",
+      "organisation": "Cardiff Metropolitan University",
+      "startDate": "May, 2023",
+      "endDate": "Present",
+      "experiences": [],
+      "imageSrc": "history/Cardiff.png"
+    },
+    {
+      "role": "Higher Diploma in Computing & Software Engineering",
+      "organisation": "ICBT Campus",
+      "startDate": "Mar, 2020",
+      "endDate": "Jun, 2022",
+      "experiences": ["Upper Second Class"],
+      "imageSrc": "history/ICBT.png"
+    }
+  ]
