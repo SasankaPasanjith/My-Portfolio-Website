@@ -1,7 +1,9 @@
-import React from 'react'
+import React from "react";
 
 export const Projects = () => {
   return (
-    <div>Projects</div>
-  )
-}
+    <section>
+      <h2>Projects</h2>
+    </section>
+  );
+};

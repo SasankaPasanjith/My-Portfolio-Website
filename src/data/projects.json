@@ -1,26 +1,26 @@
 [
-    {
-      "title": "HeartGuardian Heart Disease Prediction System",
-      "imageSrc": "projects/Header.PNG",
-      "description": "In this project I used Jupyter Notebooks for the ML prediction model. Also, for the development I used Python with Flask & React.",
-      "skills": ["React", "Python", "Jupyter"],
-      "Backend": "https://github.com/SasankaPasanjith/HeartGuardian-Backend",
-      "Frontend": "https://github.com/SasankaPasanjith/HeartGuardian-UI"
-    },
-    {
-      "title": "Labarotory Appointment Management System",
-      "imageSrc": "projects/homepage.png",
-      "description": "This application made by using Java with Springboot, JavaScript, HTML, CSS & MySQL for the database purposes.",
-      "skills": ["Java", "Javascript", "MySQL"],
-      "Backend": "https://github.com/SasankaPasanjith/ABC-Laboratories",
-      "Frontend": "https://github.com/SasankaPasanjith/ABC-Laboratory-FrontEnd"
-    },
-    {
-      "title": "NLP Disaster Tweet Prediction website",
-      "imageSrc": "disaster tweets.PNG",
-      "description": "In this project I used Jupyter Notebooks for the ML prediction model. For the application Development I used Streamlit.",
-      "skills": ["Jupyter Notebook", "Streamlit", "Python"],
-      "Backend": "https://github.com/SasankaPasanjith/Disaster-Tweets-Prediction-System",
-      "Frontend":"https://github.com/SasankaPasanjith/Disaster-Tweets-Prediction-System"
-    }
-  ]
+  {
+    "title": "HeartGuardian Heart Disease Prediction System",
+    "imageSrc": "projects/Header.PNG",
+    "description": "In this project I used Jupyter Notebooks for the ML prediction model. Also, for the development I used Python with Flask & React.",
+    "skills": ["React", "Python", "Jupyter"],
+    "Backend": "https://github.com/SasankaPasanjith/HeartGuardian-Backend",
+    "Frontend": "https://github.com/SasankaPasanjith/HeartGuardian-UI"
+  },
+  {
+    "title": "Labarotory Appointment Management System",
+    "imageSrc": "projects/homepage.png",
+    "description": "This application made by using Java with Springboot, JavaScript, HTML, CSS & MySQL for the database purposes.",
+    "skills": ["Java", "Javascript", "MySQL"],
+    "Backend": "https://github.com/SasankaPasanjith/ABC-Laboratories",
+    "Frontend": "https://github.com/SasankaPasanjith/ABC-Laboratory-FrontEnd"
+  },
+  {
+    "title": "NLP Disaster Tweet Prediction website",
+    "imageSrc": "disaster tweets.PNG",
+    "description": "In this project I used Jupyter Notebooks for the ML prediction model. For the application Development I used Streamlit.",
+    "skills": ["Jupyter Notebook", "Streamlit", "Python"],
+    "Backend": "https://github.com/SasankaPasanjith/Disaster-Tweets-Prediction-System",
+    "Frontend": "https://github.com/SasankaPasanjith/Disaster-Tweets-Prediction-System"
+  }
+]
