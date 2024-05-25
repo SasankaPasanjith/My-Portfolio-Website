@@ -17,9 +17,9 @@
   },
   {
     "title": "NLP Disaster Tweet Prediction website",
-    "imageSrc": "disaster tweets.PNG",
+    "imageSrc": "projects/disaster tweets.PNG",
     "description": "In this project I used Jupyter Notebooks for the ML prediction model. For the application Development I used Streamlit.",
-    "skills": ["Jupyter Notebook", "Streamlit", "Python"],
+    "skills": ["Python", "Streamlit",  "Jupyter Notebook"],
     "Backend": "https://github.com/SasankaPasanjith/Disaster-Tweets-Prediction-System",
     "Frontend": "https://github.com/SasankaPasanjith/Disaster-Tweets-Prediction-System"
   }
